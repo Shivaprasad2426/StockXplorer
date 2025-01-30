@@ -1,10 +1,19 @@
 # StockXplorer-Project
 
-## Overview
-StockXplorer is a project aimed at analyzing stock market data and building predictive models to forecast stock prices.
+This project is focused on stock market analysis and prediction using various machine learning models.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+This project uses Jupyter Notebooks and Python to analyze and predict stock market trends.
 
 ## Installation
-To set up the project, clone this repository and install the required dependencies:
+Clone the repository and install the necessary dependencies.
 
 ```bash
 git clone https://github.com/Shivaprasad2426/StockXplorer-Project.git
